@@ -7,5 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Tuna Fortuna",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuna42na/scratch-boilerplate.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/tuna42na/scratch-boilerplate/issues"
+  },
+  "homepage": "https://github.com/tuna42na/scratch-boilerplate#readme"
 }
